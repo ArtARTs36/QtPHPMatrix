@@ -1,0 +1,23 @@
+{
+    "addons": [
+    ],
+    "app": {
+        "name": "",
+        "orgDomain": "",
+        "orgName": "",
+        "version": "1.0"
+    },
+    "build": {
+        "icon": "",
+        "qmakelf": "",
+        "save_ini_md5": false,
+        "save_php7ts_md5": true,
+        "template": "app"
+    },
+    "config": [
+    ],
+    "includes": [
+        "core:Qt"
+    ],
+    "version": "1.0"
+}
